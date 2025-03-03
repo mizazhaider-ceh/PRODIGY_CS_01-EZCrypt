@@ -43,15 +43,15 @@ PRODIGY_CS_01-EZCrypt/
 
 ## 📌 **Encryption Process:**
 
-![Encryption Process:](Screenshots/encrypt.png)
+![Encryption Process:](screenshots/encrypt.png)
 
 ## 🔐 **Decryption Process:**
 
-![Decryption  Process:](Screenshots/decrypt.png)
+![Decryption  Process:](screenshots/decrypt.png)
 
 ## ❌ **Wrong Input Handling:**
 
-![Wrong Input Handling:](Screenshots/wrong_input.png)
+![Wrong Input Handling:](screenshots/wrong_input.png)
 
 ## 🎯 Why I Built This Project
 
