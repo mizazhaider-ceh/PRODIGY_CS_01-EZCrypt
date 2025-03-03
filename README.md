@@ -28,7 +28,6 @@ EZCrypt is based on the  **Caesar Cipher Algorithm** , a classical encryption te
 * User-friendly interface with color-coded outputs
 * Error handling for invalid inputs
 
-
 ## 📂 Project Structure
 
 ```bash
@@ -80,8 +79,26 @@ Make sure you have **Python 3.x** installed on your system.
 
 ### 🔹 Run the Program
 
+#### On Windows
+
 ```bash
  python EZCrypt.py
+ or
+ python3 EZCrypt.py
+```
+
+#### On Linux or MacOs
+
+###### First, grant execution permissions:
+
+```bash
+ chmod +x EZCrypt.py
+```
+
+###### Then execute the script:
+
+```bash
+ ./EZCrypt.py
  or
  python3 EZCrypt.py
 ```
@@ -93,7 +110,7 @@ Make sure you have **Python 3.x** installed on your system.
 3. Provide a shift value (a number between 1-25).
 4. Get the encoded/decoded output instantly!
 
-##  Special Thanks
+## Special Thanks
 
 A huge thanks to **Prodigy InfoTech** for providing an incredible internship opportunity, allowing me to explore encryption techniques and refine my Python skills.
 
@@ -101,9 +118,9 @@ A huge thanks to **Prodigy InfoTech** for providing an incredible internship opp
 
 If you like this project, consider giving it a ⭐ on GitHub!
 
-📜 License
+## 📜 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT [LICENSE](LICENSE).
 
 ### 📬 Connect with Me
 
