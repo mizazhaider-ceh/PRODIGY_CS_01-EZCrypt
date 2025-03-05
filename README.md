@@ -16,7 +16,7 @@ EZCrypt is based on the  **Caesar Cipher Algorithm** , a classical encryption te
 * **Decryption:** Moves letters backward by the same shift value to restore the original message.
 * **Enhanced Efficiency:** Uses `shift % 26` to handle large shift values effectively.
 
-## 🖥 Screenshots
+
 
 ## 📌 Features
 
@@ -39,6 +39,7 @@ PRODIGY_CS_01-EZCrypt/
 │   │── decrypt.png
 │   │── wrong_input.png
 ```
+## 🖥 Screenshots
 
 ## 📌 **Encryption Process:**
 
