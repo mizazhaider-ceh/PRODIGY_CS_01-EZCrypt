@@ -30,17 +30,21 @@ A huge thanks to Prodigy InfoTech for providing this incredible internship oppor
 """
 
 print("""\033[33m
-/==========================================\\
-||  _____ _________                  _    ||
-|| | ____|__  / ___|_ __ _   _ _ __ | |_  ||
-|| |  _|   / / |   | '__| | | | '_ \\| __| ||
-|| | |___ / /| |___| |  | |_| | |_) | |_  ||
-|| |_____/____\\____|_|   \\__, | .__/ \\__| ||
-||                       |___/|_|         ||
-\\==========================================/
-\033[0m""")
-print("\033[33mWelcome to EZCrypt – Secure Your Text with Ease!\033[0m")
-print("\033[32mDeveloped by Muhammad Izaz Haider – A Project from Internship\033[0m")
+            /==========================================\\
+            ||  _____ _________                  _    ||
+            || | ____|__  / ___|_ __ _   _ _ __ | |_  ||
+            || |  _|   / / |   | '__| | | | '_\\| __| ||
+            || | |___ / /| |___| |  | |_| | |_) | |_  ||
+            || |_____/____\\____|_|  \\__,| .__/\\__| ||
+            ||                       |___/|_|         ||
+            \\==========================================/
+\033[0m
+\033[35m~~~~~ Developed by Aspiring Penster Mr. Izaz  ~~~~~ \033[0m 
+\033[93m~~~~~ Follow Here: GitHub.com/mizazhaider-ceh ~~~~~\033[0m
+
+
+""")
+
 #=================== Function =========================
 
 # Function to perform encryption or decryption based on the mode/choice
